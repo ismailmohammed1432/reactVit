@@ -1,0 +1,15 @@
+steps for react setup
+
+1. React is a library for building UI Components
+2. to Install react you need nodejs and npm
+3. To setup react, you need tools like
+- CRA (Dead in the market now)
+-Vite
+
+4. cd repoName
+5. npm create vite@latest
+6. enter folderName as client
+7. select React and next javaScript
+8. cd client
+9. npm Install
+10. npm run dev
